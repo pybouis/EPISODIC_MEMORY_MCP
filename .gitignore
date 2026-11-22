@@ -1,0 +1,12 @@
+# Environnement et secrets
+.env
+.venv/
+# Données : sauvegardes des épisodes (questions/réponses des clients)
+exports/
+# Artefacts Python / build
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
